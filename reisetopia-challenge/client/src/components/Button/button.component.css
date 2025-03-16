@@ -1,0 +1,10 @@
+.button { 
+    position: absolute;
+    background-color: var(--button-color);
+    border-radius: 5px;
+    padding: 0.5em;
+    color: var(--white);
+    text-transform: uppercase;
+    font-size: x-small;
+    
+  }

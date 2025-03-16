@@ -1,0 +1,15 @@
+.image-container {
+    position: relative;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    background-position: center;
+    border-radius: 7px;
+    opacity: 1;
+    height: 450px;
+    width: 800px;
+    background-size: cover;
+ 
+ }

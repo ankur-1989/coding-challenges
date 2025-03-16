@@ -1,0 +1,11 @@
+.slider-container {
+    position: relative;
+    
+  }
+  
+  .slider-container .slider { display: block; }
+  .slider-container .arrow-left-button { position: absolute; top: 250px; left: 200px; z-index: 2; background-color: transparent; border: 0}
+  .slider-container .arrow-right-button { position: absolute; top: 250px; left: 880px; z-index: 2;background-color: transparent; border: 0  }
+  .arrow-icon {
+    mix-blend-mode: overlay
+  }

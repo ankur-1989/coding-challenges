@@ -1,0 +1,8 @@
+.hotel-name {
+    margin-bottom: 2em;
+    font-family: var(--titlium);
+    color: var(--white)
+ }
+ .star-icon {
+   opacity: 1;
+ }
