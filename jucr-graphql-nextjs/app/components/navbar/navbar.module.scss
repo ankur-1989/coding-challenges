@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+    margin-left: auto;
+.navbar {
+    display: "flex";
+    list-style-type: none;
+    align-self: flex-start;
+    padding: 0;
+   
+
+    .navItem {
+        margin-right: 20px;
+        a {
+            text-decoration: none;
+            font-size: larger;
+        }
+    }
+}
+}
